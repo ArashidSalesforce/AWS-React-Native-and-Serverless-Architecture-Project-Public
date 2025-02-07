@@ -1,7 +1,5 @@
 # AWS-React-Native-and-Serverless-Architecture-Project
 
-# Evrlift: Proof of Concept for a Fitness Coaching App
-
 ## 🚀 Overview
 Evrlift was built as a **Proof of Concept (POC)** to explore new technologies and improve my understanding of **React Native, AWS Serverless Architecture, and DynamoDB Single-Table Design**. The goal was to create a **minimal-click** fitness coaching app that integrates essential features like workout management, client tracking, and authentication.
 
